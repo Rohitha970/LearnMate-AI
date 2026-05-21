@@ -1,0 +1,40 @@
+{
+  "Frontend Development": {
+    "Beginner": {
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "courses": ["Frontend Basics", "Responsive Web Design"],
+      "projects": ["Portfolio Website", "Landing Page"]
+    },
+    "Intermediate": {
+      "skills": ["React", "API Integration", "Tailwind CSS"],
+      "courses": ["React Development", "Modern UI"],
+      "projects": ["Weather App", "E-commerce UI"]
+    }
+  },
+
+  "Cybersecurity": {
+    "Beginner": {
+      "skills": ["Networking", "Linux", "Basics of Security"],
+      "courses": ["Ethical Hacking Basics", "Cybersecurity Fundamentals"],
+      "projects": ["Port Scanner", "Password Strength Checker"]
+    },
+    "Intermediate": {
+      "skills": ["Kali Linux", "Nmap", "Vulnerability Analysis"],
+      "courses": ["Network Security", "Penetration Testing"],
+      "projects": ["Security Dashboard", "Packet Analyzer"]
+    }
+  },
+
+  "Data Analytics": {
+    "Beginner": {
+      "skills": ["Python", "Pandas", "Excel"],
+      "courses": ["Data Analytics Basics", "Python for Data Science"],
+      "projects": ["Sales Dashboard", "Student Analysis"]
+    },
+    "Intermediate": {
+      "skills": ["Machine Learning", "Visualization", "SQL"],
+      "courses": ["ML Fundamentals", "Data Visualization"],
+      "projects": ["Prediction System", "Analytics Dashboard"]
+    }
+  }
+}
