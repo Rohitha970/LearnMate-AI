@@ -1,11 +1,11 @@
-# 🎓 LearnMate AI
+#  LearnMate AI
 ## Personalized Course Pathway Agent using IBM Granite Concepts
 
 LearnMate AI is an AI-powered educational assistant designed to help students identify the best learning pathway based on their interests, skill levels, and career goals.
 
 The system generates personalized roadmaps, recommends relevant skills, suggests mini projects, and guides students toward career-focused learning using Agentic AI concepts.
 
-# 🚀 Features
+#  Features
 
 ✅ Personalized Learning Roadmaps  
 ✅ Skill Recommendations  
@@ -15,7 +15,7 @@ The system generates personalized roadmaps, recommends relevant skills, suggests
 ✅ Beginner-Friendly Interface  
 ✅ Dynamic AI-Based Recommendations  
 
-# 🧠 Problem Statement
+# Problem Statement
 
 Students often struggle to choose the right technologies, courses, and projects because of the overwhelming number of online resources and lack of personalized guidance.
 
@@ -38,7 +38,7 @@ Based on these inputs, the system generates:
 
 The solution follows Agentic AI concepts for personalized educational assistance.
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Python
 - Streamlit
@@ -46,12 +46,3 @@ The solution follows Agentic AI concepts for personalized educational assistance
 - IBM Granite Concepts
 - Agentic AI Workflow
 
-# 📂 Project Structure
-
-LearnMate-AI/
-│
-├── app.py
-├── roadmap_data.json
-├── requirements.txt
-├── README.md
-└── assets/
